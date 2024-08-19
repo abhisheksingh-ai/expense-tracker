@@ -6,6 +6,7 @@ import {
     dark,
     darcula,
     vs,
+
     idea,
     xcode,
     vs2015,
